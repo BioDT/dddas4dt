@@ -34,3 +34,6 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 ## Videos
 
 - Soil-Plant System DT: [https://www.youtube.com/watch?v=4tiinfz-0Tg](https://www.youtube.com/watch?v=4tiinfz-0Tg)
+
+[![Soil-Plant System DT](https://img.youtube.com/vi/4tiinfz-0Tg/0.jpg)](https://www.youtube.com/watch?v=4tiinfz-0Tg)
+
