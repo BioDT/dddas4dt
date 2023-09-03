@@ -1,1 +1,31 @@
-# DDDAS4DT workshop @ ECEM2023
+# Designing Dynamic Data-Driven Digital Twin Systems in Ecology
+**Workshop @ European Conference on Ecological Modelling 2023**
+
+**Name and affiliation:** Taimur Khan, Helmholtz-UFZ (Community Ecology)
+
+> What systems design is not: an absolute truth. Design methods changes as use cases and technologies change. 
+
+Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
+
+Dynamic Data Driven Application Systems (or DDDAS, http://1dddas.org) is a conceptual framework that synergistically combines models and data in order to facilitate the analysis and prediction of physical phenomena. DDDAS is an emerging systems design approach that enables to measure physical processes more effectively and consequently update models and simulations. DDDAS and Digital Twins are a natural pairing that improve the combined capabilities of sensors, data, models, and choices. DDDAS incorporates additional data into an executing Digital Twin, and in reverse, enhance a Digital Twin to dynamically steer the decision on its physical asset.
+
+In this workshop, participants will get the chance to dive into what DDDAS is and what possibilities it allows for designing Digital Twin systems in Ecology. Furthermore, examples of DDDAS in Digital Twin design will be presented.
+
+![approach](/approach.png)
+
+## Workshop Resources
+- [slides.pdf](): Presentation at ECEM@2023
+- [template.drawio]() : Digital Twin Schema template for exercise
+- [real-time.csv]() : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events
+- [historical.csv]() : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events
+
+
+## Literature
+
+- Blasch, Erik P., Frederica Darema, Sai Ravela, and Alex J. Aved, eds. Handbook of Dynamic Data Driven Applications Systems: Volume 1. Springer Nature, 2022.
+- Darema, Frederica. "Dynamic data driven applications systems: A new paradigm for application simulations and measurements." In International conference on computational science, pp. 662-669. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
+- Ravela, Sai, and Adrian Sandu, eds. Dynamic Data-Driven Environmental Systems Science: First International Conference, DyDESS 2014, Cambridge, MA, USA, November 5-7, 2014, Revised Selected Papers. Vol. 8964. Springer, 2015.
+- Segovia, Mariana, and Joaquin Garcia-Alfaro. 2022. "Design, Modeling and Implementation of Digital Twins" Sensors 22, no. 14: 5396. https://doi.org/10.3390/s22145396
+
+## Videos
+- Soil-Plant System DT: https://www.youtube.com/watch?v=4tiinfz-0Tg
