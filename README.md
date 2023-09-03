@@ -26,7 +26,7 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 - Blasch, Erik P., Frederica Darema, Sai Ravela, and Alex J. Aved, eds. Handbook of Dynamic Data Driven Applications Systems: Volume 1. Springer Nature, 2022.
 - Darema, Frederica. "Dynamic data driven applications systems: A new paradigm for application simulations and measurements." In International conference on computational science, pp. 662-669. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
 - Ravela, Sai, and Adrian Sandu, eds. Dynamic Data-Driven Environmental Systems Science: First International Conference, DyDESS 2014, Cambridge, MA, USA, November 5-7, 2014, Revised Selected Papers. Vol. 8964. Springer, 2015.
-- Segovia, Mariana, and Joaquin Garcia-Alfaro. 2022. "Design, Modeling and Implementation of Digital Twins" Sensors 22, no. 14: 5396. https://doi.org/10.3390/s22145396
+- Segovia, Mariana, and Joaquin Garcia-Alfaro. "Design, modeling and implementation of digital twins." Sensors 22, no. 14 (2022): 5396.
 
 ## Videos
 - Soil-Plant System DT: [https://www.youtube.com/watch?v=4tiinfz-0Tg](https://www.youtube.com/watch?v=4tiinfz-0Tg)
