@@ -1,6 +1,6 @@
 # Designing Dynamic Data-Driven Digital Twin Systems in Ecology
 
-**Workshop @ European Conference on Ecological Modeling 2023**
+**Workshop @ European Conference on Ecological Modelling 2023**
 
 **Name and affiliation:** _Taimur Khan ([taimur.khan@ufz.de](mailto:taimur.khan@ufz.de)), Helmholtz-UFZ (Community Ecology)_
 
@@ -8,7 +8,7 @@
 
 > **What system design is not: an absolute truth. Design methods change, as use cases and technologies change.**
 
-Today's ecological modeling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
+Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
 
 Dynamic Data Driven Application Systems (or DDDAS, http://1dddas.org) is a conceptual framework that synergistically combines models and data in order to facilitate the analysis and prediction of physical phenomena. DDDAS is an emerging systems design approach that enables to measure physical processes more effectively and consequently update models and simulations. DDDAS and Digital Twins are a natural pairing that improve the combined capabilities of sensors, data, models, and choices. DDDAS incorporates additional data into an executing Digital Twin, and in reverse, enhance a Digital Twin to dynamically steer the decision on its physical asset.
 
