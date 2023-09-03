@@ -6,7 +6,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8313064.svg)](https://doi.org/10.5281/zenodo.8313064)
 
-
 > What systems design is not: an absolute truth. Design methods changes as use cases and technologies change.
 
 Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
@@ -25,9 +24,39 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 
 ## Exercise
 
-Design a plant self-watering system using a DT using the DT Schema template above. System is described in the slides. 
+Design a plant self-watering system using a DT using the DT Schema template above. System is described in the slides.
+
+- System: Soil Watering DT
+- 8 soil beds with sensor network
+- Observational Data (from sensors):
+
+  - Soil moisture
+  - Soil temperature
+- Control inputs:
+
+  - WiFi controlled water pumps with on/off states.
+- Use the DT schema template on draw.io to create a schema for a  DDDAS-based DT of the given Soil Watering system that automates soil watering based on soil moisture and soil temperature data.
+
+> HINT: Think about what other data sources can be added, what is the state space, what type of model, is needed and what components would be required.
+
+**Soil beds**
+![soilbeds](/soilbeds.png)
+
+**Plant observations**
+
+
+| Bed # | Species                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | 1x [Lavandula angustifolia Mill.. ](https://identify.plantnet.org/k-world-flora/observations/1019806178)[(English lavender)<br />1x](https://identify.plantnet.org/k-world-flora/observations/1019806178) [Verbena bonariensis L.](https://identify.plantnet.org/k-world-flora/observations/1019806181) (Purpletop vervain)                                                                                                                                                                                      |
+| 2     | 1x [Capsicum](https://identify.plantnet.org/k-world-flora/observations/1019806183) [chinense](https://identify.plantnet.org/k-world-flora/observations/1019806183)[ Jacq.](https://identify.plantnet.org/k-world-flora/observations/1019806183) (Habanero)<br />1x [Fuchsia](https://identify.plantnet.org/k-world-flora/observations/1019806185) [magellanica](https://identify.plantnet.org/k-world-flora/observations/1019806185)[ Lam.](https://identify.plantnet.org/k-world-flora/observations/1019806185) (Fuchsia) |
+| 3     | 1x[Capsicum frutescens L.](https://identify.plantnet.org/k-world-flora/observations/1019806186) (Capsicum)<br />1x [Borago officinalis L.](https://identify.plantnet.org/k-world-flora/observations/1019806187) (Borage)                                                                                                                                                                                                                                                                                      |
+| 4     | 2x [Mentha spicata L.](https://identify.plantnet.org/k-world-flora/observations/1019806175) (spearmint)<br />1x [Aloysia citrodora](https://identify.plantnet.org/k-world-flora/observations/1019806167) (Lemon verben)                                                                                                                                                                                                                                                                                       |
+| 5     | 2x [Salvia officinalis L.](https://identify.plantnet.org/k-world-flora/observations/1019805839)(Sage)                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 6     | 1x [Capsicum annuum L.](https://identify.plantnet.org/k-world-flora/observations/1019806189) (Chilli Pepppers)<br />1x [Rheum rhaponticum L. ](https://identify.plantnet.org/k-world-flora/observations/1019806191)(Rhubarb)<br />1x [Solanum](https://identify.plantnet.org/k-world-flora/observations/1019806193) [pimpinellifolium](https://identify.plantnet.org/k-world-flora/observations/1019806193)[ L.](https://identify.plantnet.org/k-world-flora/observations/1019806193) (Currant tomato)               |
+| 7     | 2x [Capsicum frutescens L. ](https://identify.plantnet.org/k-world-flora/observations/1019806203)(Capsicum)                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Sample Datasets
+
 - [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events (waterpump)
 - [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events (rain + waterpump)
 
@@ -43,4 +72,3 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 - Soil-Plant System DT: [https://www.youtube.com/watch?v=4tiinfz-0Tg](https://www.youtube.com/watch?v=4tiinfz-0Tg)
 
 [![Soil-Plant System DT](https://img.youtube.com/vi/4tiinfz-0Tg/0.jpg)](https://www.youtube.com/watch?v=4tiinfz-0Tg)
-
