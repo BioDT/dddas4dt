@@ -28,4 +28,5 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 - Segovia, Mariana, and Joaquin Garcia-Alfaro. 2022. "Design, Modeling and Implementation of Digital Twins" Sensors 22, no. 14: 5396. https://doi.org/10.3390/s22145396
 
 ## Videos
-- Soil-Plant System DT: https://www.youtube.com/watch?v=4tiinfz-0Tg
+- Soil-Plant System DT: [https://www.youtube.com/watch?v=4tiinfz-0Tg](https://www.youtube.com/watch?v=4tiinfz-0Tg)
+  
