@@ -57,7 +57,7 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 
 ## Sample Datasets
 
-- [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events (waterpump)
+- [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days+2 nights w/ watering events (waterpump)
 - [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events (rain + waterpump)
 
 ## Literature
