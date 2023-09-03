@@ -29,11 +29,9 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 - System: Soil Watering DT
 - 8 soil beds with sensor network
 - Observational Data (from sensors):
-
-  - Soil moisture
-  - Soil temperature
+  - Soil moisture (%)
+  - Soil temperature (F)
 - Control inputs:
-
   - WiFi controlled water pumps with on/off states.
 - Use the DT schema template on draw.io to create a schema for a  DDDAS-based DT of the given Soil Watering system that automates soil watering based on soil moisture and soil temperature data.
 
