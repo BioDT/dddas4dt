@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8313258.svg)](https://doi.org/10.5281/zenodo.8313258)
 
-> **What system design is not: an absolute truth. Design methods changes as use cases and technologies change.**
+> **What system design is not: an absolute truth. Design methods change, as use cases and technologies change.**
 
 Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
 
