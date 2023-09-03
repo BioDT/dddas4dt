@@ -42,7 +42,7 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 **Soil beds**
 ![soilbeds](/soilbeds.png)
 
-** Pl@ntNet Species Observations**
+**Pl@ntNet Species Observations**
 
 
 | Bed # | Species                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
