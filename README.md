@@ -1,7 +1,7 @@
 # Designing Dynamic Data-Driven Digital Twin Systems in Ecology
 **Workshop @ European Conference on Ecological Modelling 2023**
 
-**Name and affiliation:** Taimur Khan, Helmholtz-UFZ (Community Ecology)
+**Name and affiliation:** Taimur Khan ([taimur.khan@ufz.de](mailto:taimur.khan@ufz.de)), Helmholtz-UFZ (Community Ecology)
 
 > What systems design is not: an absolute truth. Design methods changes as use cases and technologies change. 
 
