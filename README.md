@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8313258.svg)](https://doi.org/10.5281/zenodo.8313258)
 
-> What systems design is not: an absolute truth. Design methods changes as use cases and technologies change.
+> **What system design is not: an absolute truth. Design methods changes as use cases and technologies change.**
 
 Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
 
@@ -36,7 +36,7 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 - Model: ? (e.g. linear regression, rates-of-change)
 - Use the DT schema template on draw.io to create a schema for a DDDAS-based DT of the given Soil Watering system that automates soil watering based on soil moisture and soil temperature data.
 
-> HINT: Think about what other data sources can be added, what is the state space, what type of model, is needed and what components would be required.
+> **HINT:** Think about what other data sources can be added, what is the state space, what type of model, is needed and what components would be required.
 
 **Soil beds**
 ![soilbeds](/soilbeds.png)
