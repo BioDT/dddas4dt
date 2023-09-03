@@ -1,9 +1,10 @@
 # Designing Dynamic Data-Driven Digital Twin Systems in Ecology
+
 **Workshop @ European Conference on Ecological Modelling 2023**
 
 **Name and affiliation:** Taimur Khan ([taimur.khan@ufz.de](mailto:taimur.khan@ufz.de)), Helmholtz-UFZ (Community Ecology)
 
-> What systems design is not: an absolute truth. Design methods changes as use cases and technologies change. 
+> What systems design is not: an absolute truth. Design methods changes as use cases and technologies change.
 
 Today's ecological modelling and simulation code typically only support static workflows. Users can only interact with the running code to terminate a run when input data and parameter files have been produced in advance and are read by the code at startup. If data re-integration is necessary, it is typically done manually using static, sanitised input files produced from data sources to interact with observation systems, data archives, and experiments. This presents a challenge in using legacy ecological models and simulations in Digital Twins.
 
@@ -14,12 +15,14 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 ![approach](/approach.png)
 
 ## Workshop Resources
+
 - [slides.pdf](slides.pdf): Presentation at ECEM@2023
 - [template.drawio](template.drawio) : Digital Twin Schema template for exercise (download and open on [draw.io](https://app.diagrams.net/))
 - [DT Schema Gallery](https://drive.google.com/drive/folders/1_sx5-JHGgJZUw4GJjew5ngCf_DG671GD?usp=sharing):  Google Drive folder for DT Schema submissions of workshop participants
+
+## Datasets
 - [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events (waterpump)
 - [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events (rain + waterpump)
-
 
 ## Literature
 
@@ -29,5 +32,5 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 - Segovia, Mariana, and Joaquin Garcia-Alfaro. "Design, modeling and implementation of digital twins." Sensors 22, no. 14 (2022): 5396.
 
 ## Videos
+
 - Soil-Plant System DT: [https://www.youtube.com/watch?v=4tiinfz-0Tg](https://www.youtube.com/watch?v=4tiinfz-0Tg)
-  
