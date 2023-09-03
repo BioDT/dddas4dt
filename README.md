@@ -17,8 +17,8 @@ In this workshop, participants will get the chance to dive into what DDDAS is an
 - [slides.pdf](slides.pdf): Presentation at ECEM@2023
 - [template.drawio](template.drawio) : Digital Twin Schema template for exercise
 - [DT Schema Gallery](https://drive.google.com/drive/folders/1_sx5-JHGgJZUw4GJjew5ngCf_DG671GD?usp=sharing):  Google Drive folder for DT Schema Gallery of workshop participants
-- [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events
-- [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events
+- [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days w/ watering events (waterpump)
+- [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events (rain + waterpump)
 
 
 ## Literature
