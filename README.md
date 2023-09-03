@@ -1,1 +1,1 @@
-# dt-ecology-workshop
+# DDDAS4DT workshop @ ECEM2023
