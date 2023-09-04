@@ -60,7 +60,7 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 
 ## Survey results
 
-- [Pre- workshop survey](pre-survey.pdf)
+- [Pre-workshop survey](pre-survey.pdf)
 - [Post-workshop survey]()
 
 ## Literature
