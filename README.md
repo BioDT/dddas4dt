@@ -58,6 +58,11 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 - [real-time.csv](real-time.csv) : Real-time Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @60s resolution for ~ 3 days+2 nights w/ watering events (waterpump)
 - [historical.csv](historic.csv) : Historical Soil Moisture and Soil Temperature for Taimur's balcony soilbeds @4hr resolution for 1 month w/ watering events (rain + waterpump)
 
+## Survey results
+
+- [Pre- workshop survey](pre-survey.pdf)
+- [Post-workshop survey]()
+
 ## Literature
 
 - Blasch, Erik P., Frederica Darema, Sai Ravela, and Alex J. Aved, eds. Handbook of Dynamic Data Driven Applications Systems: Volume 1. Springer Nature, 2022.
