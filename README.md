@@ -36,7 +36,7 @@ Design a plant self-watering system using a DT using the DT Schema template abov
 - Model: ? (e.g. linear regression, rates-of-change)
 - Use the DT schema template on draw.io to create a schema for a DDDAS-based DT of the given Soil Watering system that automates soil watering based on soil moisture and soil temperature data.
 
-> **HINT:** Think about what other data sources can be added, what is the state space, what type of model, is needed and what components would be required.
+> **HINT:** Think about what other data sources can be added, what is the state space, what type of model is needed, and what components would be required.
 
 **Soil beds**
 ![soilbeds](/soilbeds.png)
