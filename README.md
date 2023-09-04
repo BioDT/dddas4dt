@@ -4,7 +4,7 @@
 
 **Name and affiliation:** _Taimur Khan ([taimur.khan@ufz.de](mailto:taimur.khan@ufz.de)), Helmholtz-UFZ (Community Ecology)_
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8313258.svg)](https://doi.org/10.5281/zenodo.8313258)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8313875.svg)](https://doi.org/10.5281/zenodo.8313875)
 
 > **What system design is not: an absolute truth. Design methods change, as use cases and technologies change.**
 
